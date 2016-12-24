@@ -31,3 +31,8 @@
 # Debug files
 *.dSYM/
 *.su
+
+*.tag*
+*.bin
+leds_elf
+*.dis
